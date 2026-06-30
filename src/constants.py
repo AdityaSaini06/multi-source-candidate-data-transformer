@@ -2,6 +2,9 @@ DEFAULT_REGION = "IN"
 DATE_FORMATS_FULL = ["%Y-%m-%d", "%d/%m/%Y", "%m/%d/%Y", "%d %B %Y", "%B %d, %Y"]
 DATE_FORMATS_MONTH_ONLY = ["%Y-%m", "%B %Y", "%b %Y", "%m/%Y"]
 
+TRUST_CSV = 0.9
+TRUST_GITHUB = 0.6
+
 SKILL_SYNONYMS = {
     # JavaScript / TypeScript
     "js": "javascript",

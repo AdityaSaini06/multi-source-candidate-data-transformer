@@ -1,0 +1,461 @@
+[
+  {
+    "candidate_id": "cand_d2e6401f47a0",
+    "full_name": "Aditya Saini",
+    "headline": null,
+    "emails": [
+      "aditya.saini@example.com"
+    ],
+    "phones": [
+      "+919876543210"
+    ],
+    "location": {
+      "city": "Delhi",
+      "region": "Delhi",
+      "country": "IN"
+    },
+    "links": {
+      "linkedin": null,
+      "github": "https://github.com/AdityaSaini06",
+      "portfolio": null,
+      "other": []
+    },
+    "years_experience": 1,
+    "skills": [],
+    "experience": [
+      {
+        "company": "Acme Corp",
+        "title": "SWE Intern",
+        "start": null,
+        "end": null,
+        "summary": null
+      }
+    ],
+    "education": [],
+    "overall_confidence": 0.86,
+    "provenance": [
+      {
+        "field": "full_name",
+        "source": "csv",
+        "method": "only_source"
+      },
+      {
+        "field": "emails",
+        "source": "csv",
+        "method": "only_source"
+      },
+      {
+        "field": "phones",
+        "source": "csv",
+        "method": "only_source"
+      },
+      {
+        "field": "location",
+        "source": "csv",
+        "method": "only_source"
+      },
+      {
+        "field": "links",
+        "source": "csv",
+        "method": "only_source"
+      },
+      {
+        "field": "years_experience",
+        "source": "csv",
+        "method": "only_source"
+      },
+      {
+        "field": "experience",
+        "source": "csv",
+        "method": "only_source"
+      }
+    ]
+  },
+  {
+    "candidate_id": "cand_1dca90456de4",
+    "full_name": "Priya Sharma",
+    "headline": null,
+    "emails": [
+      "priya.sharma@example.com"
+    ],
+    "phones": [
+      "+919123456780"
+    ],
+    "location": {
+      "city": "Bangalore",
+      "region": "Karnataka",
+      "country": "IN"
+    },
+    "links": {
+      "linkedin": null,
+      "github": "https://github.com/this-user-does-not-exist-xyz123",
+      "portfolio": null,
+      "other": []
+    },
+    "years_experience": 3,
+    "skills": [],
+    "experience": [
+      {
+        "company": "Initech",
+        "title": "Backend Developer",
+        "start": null,
+        "end": null,
+        "summary": null
+      }
+    ],
+    "education": [],
+    "overall_confidence": 0.86,
+    "provenance": [
+      {
+        "field": "full_name",
+        "source": "csv",
+        "method": "only_source"
+      },
+      {
+        "field": "emails",
+        "source": "csv",
+        "method": "only_source"
+      },
+      {
+        "field": "phones",
+        "source": "csv",
+        "method": "only_source"
+      },
+      {
+        "field": "location",
+        "source": "csv",
+        "method": "only_source"
+      },
+      {
+        "field": "links",
+        "source": "csv",
+        "method": "only_source"
+      },
+      {
+        "field": "years_experience",
+        "source": "csv",
+        "method": "only_source"
+      },
+      {
+        "field": "experience",
+        "source": "csv",
+        "method": "only_source"
+      }
+    ]
+  },
+  {
+    "candidate_id": "cand_195fbe338560",
+    "full_name": "Rahul Verma",
+    "headline": null,
+    "emails": [],
+    "phones": [],
+    "location": {
+      "city": null,
+      "region": null,
+      "country": null
+    },
+    "links": {
+      "linkedin": null,
+      "github": null,
+      "portfolio": null,
+      "other": []
+    },
+    "years_experience": null,
+    "skills": [],
+    "experience": [],
+    "education": [],
+    "overall_confidence": 0.9,
+    "provenance": [
+      {
+        "field": "full_name",
+        "source": "csv",
+        "method": "only_source"
+      }
+    ]
+  },
+  {
+    "candidate_id": "cand_5e5ef4b9fa9e",
+    "full_name": "Shreya Gupta",
+    "headline": null,
+    "emails": [
+      "shreya.g@example.com"
+    ],
+    "phones": [
+      "+919876543211"
+    ],
+    "location": {
+      "city": "Mumbai",
+      "region": "Maharashtra",
+      "country": "IN"
+    },
+    "links": {
+      "linkedin": null,
+      "github": "https://github.com/shreyag",
+      "portfolio": null,
+      "other": []
+    },
+    "years_experience": 2,
+    "skills": [],
+    "experience": [
+      {
+        "company": "TechFlow",
+        "title": "Data Engineer",
+        "start": null,
+        "end": null,
+        "summary": null
+      }
+    ],
+    "education": [],
+    "overall_confidence": 0.86,
+    "provenance": [
+      {
+        "field": "full_name",
+        "source": "csv",
+        "method": "only_source"
+      },
+      {
+        "field": "emails",
+        "source": "csv",
+        "method": "only_source"
+      },
+      {
+        "field": "phones",
+        "source": "csv",
+        "method": "only_source"
+      },
+      {
+        "field": "location",
+        "source": "csv",
+        "method": "only_source"
+      },
+      {
+        "field": "links",
+        "source": "csv",
+        "method": "only_source"
+      },
+      {
+        "field": "years_experience",
+        "source": "csv",
+        "method": "only_source"
+      },
+      {
+        "field": "experience",
+        "source": "csv",
+        "method": "only_source"
+      }
+    ]
+  },
+  {
+    "candidate_id": "cand_c39b8af0c6d2",
+    "full_name": "David Chen",
+    "headline": null,
+    "emails": [
+      "d.chen@test.com"
+    ],
+    "phones": [
+      "+914155552671"
+    ],
+    "location": {
+      "city": "San Francisco",
+      "region": "CA",
+      "country": "US"
+    },
+    "links": {
+      "linkedin": null,
+      "github": "https://github.com/davidchen-mock",
+      "portfolio": null,
+      "other": []
+    },
+    "years_experience": 4,
+    "skills": [],
+    "experience": [
+      {
+        "company": "Startup Inc",
+        "title": "Frontend Dev",
+        "start": null,
+        "end": null,
+        "summary": null
+      }
+    ],
+    "education": [],
+    "overall_confidence": 0.86,
+    "provenance": [
+      {
+        "field": "full_name",
+        "source": "csv",
+        "method": "only_source"
+      },
+      {
+        "field": "emails",
+        "source": "csv",
+        "method": "only_source"
+      },
+      {
+        "field": "phones",
+        "source": "csv",
+        "method": "only_source"
+      },
+      {
+        "field": "location",
+        "source": "csv",
+        "method": "only_source"
+      },
+      {
+        "field": "links",
+        "source": "csv",
+        "method": "only_source"
+      },
+      {
+        "field": "years_experience",
+        "source": "csv",
+        "method": "only_source"
+      },
+      {
+        "field": "experience",
+        "source": "csv",
+        "method": "only_source"
+      }
+    ]
+  },
+  {
+    "candidate_id": "cand_54de82c912c6",
+    "full_name": "Aisha Khan",
+    "headline": null,
+    "emails": [],
+    "phones": [
+      "+919988776655"
+    ],
+    "location": {
+      "city": "Hyderabad",
+      "region": "Telangana",
+      "country": "IN"
+    },
+    "links": {
+      "linkedin": null,
+      "github": null,
+      "portfolio": "Freelance",
+      "other": []
+    },
+    "years_experience": null,
+    "skills": [],
+    "experience": [
+      {
+        "company": "Full Stack Developer",
+        "title": "5",
+        "start": null,
+        "end": null,
+        "summary": null
+      }
+    ],
+    "education": [],
+    "overall_confidence": 0.83,
+    "provenance": [
+      {
+        "field": "full_name",
+        "source": "csv",
+        "method": "only_source"
+      },
+      {
+        "field": "phones",
+        "source": "csv",
+        "method": "only_source"
+      },
+      {
+        "field": "location",
+        "source": "csv",
+        "method": "only_source"
+      },
+      {
+        "field": "experience",
+        "source": "csv",
+        "method": "only_source"
+      }
+    ]
+  },
+  {
+    "candidate_id": "cand_e647cc5ad122",
+    "full_name": null,
+    "headline": null,
+    "emails": [],
+    "phones": [
+      "000"
+    ],
+    "location": {
+      "city": "Narnia",
+      "region": null,
+      "country": null
+    },
+    "links": {
+      "linkedin": null,
+      "github": null,
+      "portfolio": null,
+      "other": []
+    },
+    "years_experience": null,
+    "skills": [],
+    "experience": [],
+    "education": [],
+    "overall_confidence": 0.9,
+    "provenance": [
+      {
+        "field": "phones",
+        "source": "csv",
+        "method": "only_source"
+      },
+      {
+        "field": "location",
+        "source": "csv",
+        "method": "only_source"
+      }
+    ]
+  },
+  {
+    "candidate_id": "cand_a30ece787d92",
+    "full_name": "Carlos Ruiz",
+    "headline": null,
+    "emails": [
+      "cruiz@example.com"
+    ],
+    "phones": [
+      "5550198237"
+    ],
+    "location": {
+      "city": "Austin",
+      "region": "TX",
+      "country": "US"
+    },
+    "links": {
+      "linkedin": null,
+      "github": null,
+      "portfolio": null,
+      "other": []
+    },
+    "years_experience": null,
+    "skills": [],
+    "experience": [],
+    "education": [],
+    "overall_confidence": 0.9,
+    "provenance": [
+      {
+        "field": "full_name",
+        "source": "csv",
+        "method": "only_source"
+      },
+      {
+        "field": "emails",
+        "source": "csv",
+        "method": "only_source"
+      },
+      {
+        "field": "phones",
+        "source": "csv",
+        "method": "only_source"
+      },
+      {
+        "field": "location",
+        "source": "csv",
+        "method": "only_source"
+      }
+    ]
+  }
+]

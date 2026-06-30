@@ -1,0 +1,260 @@
+[
+  {
+    "full_name": "Aditya Saini",
+    "current_city": "Delhi",
+    "country_code": "IN",
+    "top_skills": [],
+    "provenance": [
+      {
+        "field": "full_name",
+        "source": "csv",
+        "method": "only_source"
+      },
+      {
+        "field": "emails",
+        "source": "csv",
+        "method": "only_source"
+      },
+      {
+        "field": "phones",
+        "source": "csv",
+        "method": "only_source"
+      },
+      {
+        "field": "location",
+        "source": "csv",
+        "method": "only_source"
+      },
+      {
+        "field": "links",
+        "source": "csv",
+        "method": "only_source"
+      },
+      {
+        "field": "years_experience",
+        "source": "csv",
+        "method": "only_source"
+      },
+      {
+        "field": "experience",
+        "source": "csv",
+        "method": "only_source"
+      }
+    ]
+  },
+  {
+    "full_name": "Priya Sharma",
+    "current_city": "Bangalore",
+    "country_code": "IN",
+    "top_skills": [],
+    "provenance": [
+      {
+        "field": "full_name",
+        "source": "csv",
+        "method": "only_source"
+      },
+      {
+        "field": "emails",
+        "source": "csv",
+        "method": "only_source"
+      },
+      {
+        "field": "phones",
+        "source": "csv",
+        "method": "only_source"
+      },
+      {
+        "field": "location",
+        "source": "csv",
+        "method": "only_source"
+      },
+      {
+        "field": "links",
+        "source": "csv",
+        "method": "only_source"
+      },
+      {
+        "field": "years_experience",
+        "source": "csv",
+        "method": "only_source"
+      },
+      {
+        "field": "experience",
+        "source": "csv",
+        "method": "only_source"
+      }
+    ]
+  },
+  {
+    "full_name": "Rahul Verma",
+    "current_city": null,
+    "country_code": null,
+    "top_skills": [],
+    "provenance": [
+      {
+        "field": "full_name",
+        "source": "csv",
+        "method": "only_source"
+      }
+    ]
+  },
+  {
+    "full_name": "Shreya Gupta",
+    "current_city": "Mumbai",
+    "country_code": "IN",
+    "top_skills": [],
+    "provenance": [
+      {
+        "field": "full_name",
+        "source": "csv",
+        "method": "only_source"
+      },
+      {
+        "field": "emails",
+        "source": "csv",
+        "method": "only_source"
+      },
+      {
+        "field": "phones",
+        "source": "csv",
+        "method": "only_source"
+      },
+      {
+        "field": "location",
+        "source": "csv",
+        "method": "only_source"
+      },
+      {
+        "field": "links",
+        "source": "csv",
+        "method": "only_source"
+      },
+      {
+        "field": "years_experience",
+        "source": "csv",
+        "method": "only_source"
+      },
+      {
+        "field": "experience",
+        "source": "csv",
+        "method": "only_source"
+      }
+    ]
+  },
+  {
+    "full_name": "David Chen",
+    "current_city": "San Francisco",
+    "country_code": "US",
+    "top_skills": [],
+    "provenance": [
+      {
+        "field": "full_name",
+        "source": "csv",
+        "method": "only_source"
+      },
+      {
+        "field": "emails",
+        "source": "csv",
+        "method": "only_source"
+      },
+      {
+        "field": "phones",
+        "source": "csv",
+        "method": "only_source"
+      },
+      {
+        "field": "location",
+        "source": "csv",
+        "method": "only_source"
+      },
+      {
+        "field": "links",
+        "source": "csv",
+        "method": "only_source"
+      },
+      {
+        "field": "years_experience",
+        "source": "csv",
+        "method": "only_source"
+      },
+      {
+        "field": "experience",
+        "source": "csv",
+        "method": "only_source"
+      }
+    ]
+  },
+  {
+    "full_name": "Aisha Khan",
+    "current_city": "Hyderabad",
+    "country_code": "IN",
+    "top_skills": [],
+    "provenance": [
+      {
+        "field": "full_name",
+        "source": "csv",
+        "method": "only_source"
+      },
+      {
+        "field": "phones",
+        "source": "csv",
+        "method": "only_source"
+      },
+      {
+        "field": "location",
+        "source": "csv",
+        "method": "only_source"
+      },
+      {
+        "field": "experience",
+        "source": "csv",
+        "method": "only_source"
+      }
+    ]
+  },
+  {
+    "current_city": "Narnia",
+    "country_code": null,
+    "top_skills": [],
+    "provenance": [
+      {
+        "field": "phones",
+        "source": "csv",
+        "method": "only_source"
+      },
+      {
+        "field": "location",
+        "source": "csv",
+        "method": "only_source"
+      }
+    ]
+  },
+  {
+    "full_name": "Carlos Ruiz",
+    "current_city": "Austin",
+    "country_code": "US",
+    "top_skills": [],
+    "provenance": [
+      {
+        "field": "full_name",
+        "source": "csv",
+        "method": "only_source"
+      },
+      {
+        "field": "emails",
+        "source": "csv",
+        "method": "only_source"
+      },
+      {
+        "field": "phones",
+        "source": "csv",
+        "method": "only_source"
+      },
+      {
+        "field": "location",
+        "source": "csv",
+        "method": "only_source"
+      }
+    ]
+  }
+]

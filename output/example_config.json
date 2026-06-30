@@ -1,0 +1,308 @@
+[
+  {
+    "full_name": "Aditya Saini",
+    "primary_email": "aditya.saini@example.com",
+    "phone": "+919876543210",
+    "skills": [],
+    "overall_confidence": 0.86,
+    "provenance": [
+      {
+        "field": "full_name",
+        "source": "csv",
+        "method": "only_source",
+        "confidence": 0.9
+      },
+      {
+        "field": "emails",
+        "source": "csv",
+        "method": "only_source",
+        "confidence": 0.9
+      },
+      {
+        "field": "phones",
+        "source": "csv",
+        "method": "only_source",
+        "confidence": 0.9
+      },
+      {
+        "field": "location",
+        "source": "csv",
+        "method": "only_source",
+        "confidence": 0.9
+      },
+      {
+        "field": "links",
+        "source": "csv",
+        "method": "only_source",
+        "confidence": 0.9
+      },
+      {
+        "field": "years_experience",
+        "source": "csv",
+        "method": "only_source",
+        "confidence": 0.9
+      },
+      {
+        "field": "experience",
+        "source": "csv",
+        "method": "only_source",
+        "confidence": 0.63
+      }
+    ]
+  },
+  {
+    "full_name": "Priya Sharma",
+    "primary_email": "priya.sharma@example.com",
+    "phone": "+919123456780",
+    "skills": [],
+    "overall_confidence": 0.86,
+    "provenance": [
+      {
+        "field": "full_name",
+        "source": "csv",
+        "method": "only_source",
+        "confidence": 0.9
+      },
+      {
+        "field": "emails",
+        "source": "csv",
+        "method": "only_source",
+        "confidence": 0.9
+      },
+      {
+        "field": "phones",
+        "source": "csv",
+        "method": "only_source",
+        "confidence": 0.9
+      },
+      {
+        "field": "location",
+        "source": "csv",
+        "method": "only_source",
+        "confidence": 0.9
+      },
+      {
+        "field": "links",
+        "source": "csv",
+        "method": "only_source",
+        "confidence": 0.9
+      },
+      {
+        "field": "years_experience",
+        "source": "csv",
+        "method": "only_source",
+        "confidence": 0.9
+      },
+      {
+        "field": "experience",
+        "source": "csv",
+        "method": "only_source",
+        "confidence": 0.63
+      }
+    ]
+  },
+  {
+    "full_name": "Rahul Verma",
+    "primary_email": null,
+    "phone": null,
+    "skills": [],
+    "overall_confidence": 0.9,
+    "provenance": [
+      {
+        "field": "full_name",
+        "source": "csv",
+        "method": "only_source",
+        "confidence": 0.9
+      }
+    ]
+  },
+  {
+    "full_name": "Shreya Gupta",
+    "primary_email": "shreya.g@example.com",
+    "phone": "+919876543211",
+    "skills": [],
+    "overall_confidence": 0.86,
+    "provenance": [
+      {
+        "field": "full_name",
+        "source": "csv",
+        "method": "only_source",
+        "confidence": 0.9
+      },
+      {
+        "field": "emails",
+        "source": "csv",
+        "method": "only_source",
+        "confidence": 0.9
+      },
+      {
+        "field": "phones",
+        "source": "csv",
+        "method": "only_source",
+        "confidence": 0.9
+      },
+      {
+        "field": "location",
+        "source": "csv",
+        "method": "only_source",
+        "confidence": 0.9
+      },
+      {
+        "field": "links",
+        "source": "csv",
+        "method": "only_source",
+        "confidence": 0.9
+      },
+      {
+        "field": "years_experience",
+        "source": "csv",
+        "method": "only_source",
+        "confidence": 0.9
+      },
+      {
+        "field": "experience",
+        "source": "csv",
+        "method": "only_source",
+        "confidence": 0.63
+      }
+    ]
+  },
+  {
+    "full_name": "David Chen",
+    "primary_email": "d.chen@test.com",
+    "phone": "+914155552671",
+    "skills": [],
+    "overall_confidence": 0.86,
+    "provenance": [
+      {
+        "field": "full_name",
+        "source": "csv",
+        "method": "only_source",
+        "confidence": 0.9
+      },
+      {
+        "field": "emails",
+        "source": "csv",
+        "method": "only_source",
+        "confidence": 0.9
+      },
+      {
+        "field": "phones",
+        "source": "csv",
+        "method": "only_source",
+        "confidence": 0.9
+      },
+      {
+        "field": "location",
+        "source": "csv",
+        "method": "only_source",
+        "confidence": 0.9
+      },
+      {
+        "field": "links",
+        "source": "csv",
+        "method": "only_source",
+        "confidence": 0.9
+      },
+      {
+        "field": "years_experience",
+        "source": "csv",
+        "method": "only_source",
+        "confidence": 0.9
+      },
+      {
+        "field": "experience",
+        "source": "csv",
+        "method": "only_source",
+        "confidence": 0.63
+      }
+    ]
+  },
+  {
+    "full_name": "Aisha Khan",
+    "primary_email": null,
+    "phone": "+919988776655",
+    "skills": [],
+    "overall_confidence": 0.83,
+    "provenance": [
+      {
+        "field": "full_name",
+        "source": "csv",
+        "method": "only_source",
+        "confidence": 0.9
+      },
+      {
+        "field": "phones",
+        "source": "csv",
+        "method": "only_source",
+        "confidence": 0.9
+      },
+      {
+        "field": "location",
+        "source": "csv",
+        "method": "only_source",
+        "confidence": 0.9
+      },
+      {
+        "field": "experience",
+        "source": "csv",
+        "method": "only_source",
+        "confidence": 0.63
+      }
+    ]
+  },
+  {
+    "full_name": null,
+    "primary_email": null,
+    "phone": "000",
+    "skills": [],
+    "overall_confidence": 0.9,
+    "provenance": [
+      {
+        "field": "phones",
+        "source": "csv",
+        "method": "only_source",
+        "confidence": 0.9
+      },
+      {
+        "field": "location",
+        "source": "csv",
+        "method": "only_source",
+        "confidence": 0.9
+      }
+    ]
+  },
+  {
+    "full_name": "Carlos Ruiz",
+    "primary_email": "cruiz@example.com",
+    "phone": "5550198237",
+    "skills": [],
+    "overall_confidence": 0.9,
+    "provenance": [
+      {
+        "field": "full_name",
+        "source": "csv",
+        "method": "only_source",
+        "confidence": 0.9
+      },
+      {
+        "field": "emails",
+        "source": "csv",
+        "method": "only_source",
+        "confidence": 0.9
+      },
+      {
+        "field": "phones",
+        "source": "csv",
+        "method": "only_source",
+        "confidence": 0.9
+      },
+      {
+        "field": "location",
+        "source": "csv",
+        "method": "only_source",
+        "confidence": 0.9
+      }
+    ]
+  }
+]

@@ -1,4 +1,9 @@
-from .normalize import normalize_name, normalize_skill_name,TRUST_CSV, TRUST_GITHUB
+from .normalize import normalize_name, normalize_skill_name
+
+from .constants import (
+    TRUST_CSV,
+    TRUST_GITHUB
+)
 
 def pick_winner(csv_val, github_val, field_name, trust_csv=TRUST_CSV, trust_github=TRUST_GITHUB):
     # Returns (value, provenance_entry or None, confidence)

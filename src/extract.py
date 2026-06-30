@@ -12,10 +12,11 @@ def extract_csv(path):
             records = []
             for row in reader:
                 # normalize header whitespace/casing once at load time
-                clean_row = {
-                    (k.strip().lower() if k else k): (v.strip() if v else None)
-                    for k, v in row.items()
-                }
+                clean_row = {}
+                for k, v in row.items():
+                    if k is None:
+                        continue
+                    clean_row[k.strip().lower()] = v.strip() if isinstance(v, str) and v else None
                 records.append(clean_row)
             return {"status": "ok", "records": records}
     except FileNotFoundError:

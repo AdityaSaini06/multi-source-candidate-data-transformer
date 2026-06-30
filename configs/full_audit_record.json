@@ -1,0 +1,12 @@
+{
+  "fields": [
+    { "path": "candidate_id", "type": "string", "required": true },
+    { "path": "full_name", "type": "string", "required": true },
+    { "path": "contact_info.primary_email", "from": "emails[0]", "type": "string" },
+    { "path": "contact_info.primary_phone", "from": "phones[0]", "type": "string", "normalize": "E164" },
+    { "path": "history.education", "from": "education", "type": "object[]" },
+    { "path": "history.work", "from": "experience", "type": "object[]" }
+  ],
+  "include_confidence": true,
+  "on_missing": "null"
+}

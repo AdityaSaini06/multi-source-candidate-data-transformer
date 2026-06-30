@@ -1,0 +1,10 @@
+{
+  "fields": [
+    { "path": "full_name", "type": "string", "required": true },
+    { "path": "current_city", "from": "location.city", "type": "string" },
+    { "path": "country_code", "from": "location.country", "type": "string", "normalize": "alpha2" },
+    { "path": "top_skills", "from": "skills[].name", "type": "string[]", "normalize": "canonical" }
+  ],
+  "include_confidence": false,
+  "on_missing": "omit"
+}

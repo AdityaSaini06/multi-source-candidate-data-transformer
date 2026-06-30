@@ -1,0 +1,11 @@
+full_name,email,phone,city,region,country,linkedin,github_url,github_username,portfolio,current_company,title,years_experience
+Aditya Saini,aditya.saini@example.com,9876543210,Delhi,Delhi,India,,https://github.com/AdityaSaini06,AdityaSaini06,,Acme Corp,SWE Intern,1
+Priya Sharma,priya.sharma@example.com,9123456780,Bangalore,Karnataka,IN,,https://github.com/this-user-does-not-exist-xyz123,this-user-does-not-exist-xyz123,,Initech,Backend Developer,3
+Rahul Verma,,,,,,,,,,,,
+Aditya Saini,aditya.saini@example.com,9876543210,Delhi,Delhi,India,,https://github.com/AdityaSaini06,AdityaSaini06,,Acme Corp,SWE Intern,1
+Shreya Gupta,shreya.g@example.com,+919876543211,Mumbai,Maharashtra,India,,https://github.com/shreyag,shreyag,,TechFlow,Data Engineer,2
+David Chen,d.chen@test.com,4155552671,San Francisco,CA,United States,,https://github.com/davidchen-mock,davidchen-mock,,Startup Inc,Frontend Dev,4
+Aisha Khan,,9988776655,Hyderabad,Telangana,IN,,,,Freelance,Full Stack Developer,5
+,,000,Narnia,,,,,,,,,
+Priya Sharma,priya.sharma@example.com,9123456780,Bengaluru,Karnataka,India,,,,,,Initech,Senior Backend Dev,4
+Carlos Ruiz,cruiz@example.com,5550198237,Austin,TX,US,,,,,,,DataCo,Data Scientist,
